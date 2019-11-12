@@ -1,0 +1,38 @@
+.wrapper{
+    height: 100%;
+    /* background-size: cover;
+    background-position: center bottom;  */
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.single{
+    width: 80%;
+}
+.double{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.post{
+    width: 500px;
+    margin: 50px;
+    font-family: 'Play', sans-serif;
+    color: yellow;
+    line-height: 1.6;
+    text-align: justify;
+}
+@media (max-width: 1300px) {
+    .double{
+        width: 80%;
+        display: flex;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+    .post{
+        width: 80%;
+    }
+}
