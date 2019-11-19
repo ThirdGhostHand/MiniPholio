@@ -79,7 +79,11 @@ function Landing() {
               </a>
             </div>
             <li className="listItem">LogosBlock (Dec 2018-Current)</li>
-            <a className="highlight" target="_blank" href="www.logosblock.com">
+            <a
+              className="highlight"
+              target="_blank"
+              href="http://logosblock.com/"
+            >
               -The LogosBlock Website
             </a>
           </ul>
