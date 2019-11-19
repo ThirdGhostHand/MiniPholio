@@ -79,11 +79,7 @@ function Landing() {
               </a>
             </div>
             <li className="listItem">LogosBlock (Dec 2018-Current)</li>
-            <a
-              className="highlight"
-              target="_blank"
-              href="http://theexpanse.ca/"
-            >
+            <a className="highlight" target="_blank" href="www.logosblock.com">
               -The LogosBlock Website
             </a>
           </ul>
@@ -131,10 +127,10 @@ function Landing() {
           </p>
           <li className="text">
             I’m a Seattle native. My dad has worked at Microsoft for twenty-two
-            years, my mom homeschooled me and my two siblings. We family lived
-            in Florida for two years, and my parents took us to the UK during
-            while I was in high school. I’ve also traveled to Tucson, Rochester,
-            New York, and DC.
+            years, my mom homeschooled me and my two siblings. We lived in
+            Florida for two years, and my parents took us to the UK during while
+            I was in high school. I’ve also traveled to Tucson, Rochester, New
+            York, and DC.
           </li>
           <li className="text">
             I have been a swimmer for over a decade with strong competitive
