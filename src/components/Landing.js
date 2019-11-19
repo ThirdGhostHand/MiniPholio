@@ -121,7 +121,7 @@ function Landing() {
           <li className="text">
             I have the capacity to be self-sufficient. If help is available, I
             will use it. Otherwise I’m not scared of documentation, Google, or
-            finding someone in the know.{" "}
+            finding someone in the know.
           </li>
           <li className="text">
             I'm honest and upfront. I'll tell it to you how it is.
@@ -143,8 +143,9 @@ function Landing() {
             team myself for about five years total.
           </li>
           <li className="text">
-            I write. I am unpuplished, but I spend multiple hours a week
-            writing, because I like it and am pretty okay at it.
+            I like to write. I am unpuplished, but I spend multiple hours a week
+            writing and have several projects greater than thirty thousand
+            words.
           </li>
           <li className="text">
             I enjoy cooking. This skill I consider one of my weakest, but I
