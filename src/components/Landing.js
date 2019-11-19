@@ -23,6 +23,17 @@ function Landing() {
               ThirdGhostHand@outlook.com
             </a>
           </li>
+          <li className="text">
+            LinkedIn:{" "}
+            <a
+              classname="highlight"
+              target="_blank"
+              href="https://www.linkedin.com/in/codypardi/"
+            >
+              https://www.linkedin.com/in/codypardi/
+            </a>
+          </li>
+
           <p className="articleHeader">Developer Experience</p>
           <li className="text">
             <a target="_blank" href="https://github.com/ThirdGhostHand">
