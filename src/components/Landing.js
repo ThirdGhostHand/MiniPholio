@@ -118,8 +118,8 @@ function Landing() {
 						projects greater than thirty thousand words.
 					</li>
 					<li className="text">
-						I enjoy cooking. I enjoy catering and throwing parties, and practicing an elaborate dish over
-						the weekend. I’ve learned from my mom who a very well-rounded and self-taught cook, and my dad’s
+						I enjoy cooking. I like catering and throwing parties and practicing an elaborate dish over the
+						weekend. I’ve learned from my mom who a very well-rounded and self-taught cook, and my dad’s
 						side of the family is full Italian and have brought their cooking and techniques with them
 						throughout the generations.
 					</li>
