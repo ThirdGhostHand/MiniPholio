@@ -1,76 +1,92 @@
 .wrapper {
-  height: 100vh;
-  background-color: black;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  padding: 20px;
+	height: 100vh;
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
 }
 .header {
-  width: 100vw;
-  align-items: center;
-  align-items: center;
+	width: 100vw;
+	align-items: center;
+	align-items: center;
 }
 .headerText {
-  font-family: "Play", sans-serif;
-  color: yellow;
-  line-height: 1.6;
-  text-align: center;
-  font-size: 50px;
-  margin: 0;
+	font-family: "Play", sans-serif;
+	color: yellow;
+	line-height: 1.6;
+	text-align: center;
+	font-size: 50px;
+	margin: 0;
 }
 .articleHeader {
-  font-family: "Play", sans-serif;
-  color: rgba(255, 238, 0, 0.945);
-  line-height: 1.6;
-  font-size: 30px;
-  margin: 0;
+	font-family: "Play", sans-serif;
+	color: rgba(255, 238, 0, 0.945);
+	line-height: 1.6;
+	font-size: 30px;
+	margin: 0;
 }
 .text {
-  width: 500px;
-  margin: 0px 50px 0px 50px;
-  font-family: "Play", sans-serif;
-  color: rgba(255, 208, 0, 0.836);
-  line-height: 1.6;
+	width: 500px;
+	margin: 0px 50px 0px 50px;
+	font-family: "Play", sans-serif;
+	color: rgba(255, 208, 0, 0.836);
+	line-height: 1.6;
 }
 .contentWrapper {
-  height: 100%;
-  display: flex;
-  flex-direction: row;
+	display: flex;
+	flex-direction: row;
 }
 .column {
-  display: flex;
-  flex-direction: column;
+	display: flex;
+	flex-direction: column;
 }
 .listItem {
-  color: yellow;
-  font-family: "Play", sans-serif;
+	color: yellow;
+	font-family: "Play", sans-serif;
 }
 
 .highlight {
-  font-family: "Play", sans-serif;
-  color: rgb(0, 119, 255);
+	font-family: "Play", sans-serif;
+	color: rgb(0, 119, 255);
 }
 
 a:visited {
-  color: rgba(0, 119, 255, 0.425);
+	color: rgba(0, 119, 255, 0.425);
 }
 @media (max-width: 1200px) {
-  .wrapper {
-    height: 100%;
-  }
-  .contentWrapper {
-    flex-direction: column;
-  }
-  .headerText {
-    font-size: 30px;
-  }
-  .articleHeader {
-    font-size: 20px;
-  }
-  .text {
-    font-size: 15px;
-    width: 90%;
-  }
+	.wrapper {
+		height: 100%;
+		padding: 10px;
+	}
+	.contentWrapper {
+		flex-direction: column;
+	}
+	.headerText {
+		font-size: 30px;
+	}
+	.articleHeader {
+		font-size: 20px;
+	}
+	.text {
+		font-size: 15px;
+		width: 90%;
+	}
+	.column {
+		display: flex;
+		flex-direction: column;
+		width: 90%;
+	}
+}
+@media (max-width: 600px) {
+	.headerText {
+		font-size: 18px;
+	}
+	.articleHeader {
+		font-size: 15px;
+	}
+	.text {
+		font-size: 8px;
+		width: 90%;
+	}
 }
