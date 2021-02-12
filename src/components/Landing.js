@@ -46,6 +46,10 @@ function Landing() {
 						the Azure development suite, frontend React applications, the Ethereum network and solidity,
 						market stack technologies, and customer development strategies.
 					</li>
+					<li className="text">
+						<span className="highlight">EasySetGo: </span>EasySet is a Bay area startup that builds an
+						automated physical security assessment service. I am their main fullstack feature engineer.
+					</li>
 					<ul>
 						<li className="listItem">MuellerTek (Mar 2017-2020)</li>
 						<div className="column">
@@ -68,6 +72,10 @@ function Landing() {
 						<li className="listItem">LogosBlock (Dec 2018-Dec 2019)</li>
 						<a className="highlight" target="_blank" href="http://logosblock.com/">
 							-The LogosBlock Website
+						</a>
+						<li className="listItem">EasySetGo (Aug 2020-Present)</li>
+						<a className="highlight" target="_blank" href="https://www.easysetgo.com/">
+							-The EasySet Website
 						</a>
 					</ul>
 					<p className="articleHeader">Technical Skills</p>
