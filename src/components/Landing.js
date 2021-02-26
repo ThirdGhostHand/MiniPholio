@@ -12,7 +12,6 @@ function Landing() {
 			<div className="contentWrapper">
 				<div className="column">
 					<p className="articleHeader">Contact</p>
-					<li className="text">Phone: 206-536-7655</li>
 					<li className="text">
 						Email:{' '}
 						<a
@@ -20,12 +19,6 @@ function Landing() {
 							href="mailto:cody@pardi.net?subject=Minipholio%20Site%20Contact%20Inquiry"
 						>
 							cody@pardi.net
-						</a>
-					</li>
-					<li className="text">
-						LinkedIn:{' '}
-						<a classname="highlight" target="_blank" href="https://www.linkedin.com/in/codypardi/">
-							https://www.linkedin.com/in/codypardi/
 						</a>
 					</li>
 
