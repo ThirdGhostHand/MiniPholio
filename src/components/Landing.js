@@ -56,7 +56,7 @@ function Landing() {
 								-The Expanse
 							</a>
 						</div>
-						<li className="listItem">ROMTech (Jan 2020-May 2020)</li>
+						<li className="listItem">ROMTech (Jan 2020-July 2020)</li>
 						<div className="column">
 							<a className="highlight" target="_blank" href="https://www.romtech.com/">
 								-ROMTech
