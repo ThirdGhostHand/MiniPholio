@@ -56,16 +56,16 @@ function Landing() {
 								-The Expanse
 							</a>
 						</div>
+						<li className="listItem">LogosBlock (Dec 2018-Dec 2019)</li>
+						<a className="highlight" target="_blank" href="http://logosblock.com/">
+							-The LogosBlock Website
+						</a>
 						<li className="listItem">ROMTech (Jan 2020-July 2020)</li>
 						<div className="column">
 							<a className="highlight" target="_blank" href="https://www.romtech.com/">
 								-ROMTech
 							</a>
 						</div>
-						<li className="listItem">LogosBlock (Dec 2018-Dec 2019)</li>
-						<a className="highlight" target="_blank" href="http://logosblock.com/">
-							-The LogosBlock Website
-						</a>
 						<li className="listItem">EasySetGo (Aug 2020-Present)</li>
 						<a className="highlight" target="_blank" href="https://www.easysetgo.com/">
 							-The EasySet Website
