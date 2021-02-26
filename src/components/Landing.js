@@ -34,14 +34,15 @@ function Landing() {
 						on an open source, server sharding, sandbox MMO and together again on ROMTech.
 					</li>
 					<li className="text">
-						<span className="highlight">LogosBlock: </span>I started at LogosBlock in December of 2018.
-						LogosBlock is a crypto exchange oriented startup. With them I’ve worked on BLOB data storage,
-						the Azure development suite, frontend React applications, the Ethereum network and solidity,
-						market stack technologies, and customer development strategies.
+						<span className="highlight">LogosBlock: </span>LogosBlock was an incredibly fun, fast paced,
+						high intensity, decentralized finance oriented startup based here in Seattle. With them I
+						developed on Azure, with React, Node, and Ethereum (highly recommendable stack, just for the
+						kicks), and a very cool market stack.
 					</li>
 					<li className="text">
-						<span className="highlight">EasySetGo: </span>EasySet is a Bay area startup that builds an
-						automated physical security assessment service. I am their main fullstack feature engineer.
+						<span className="highlight">EasySetGo: </span>EasySet is a Bay Area startup run by some of the
+						highest integity folks I have met, and they are building a very cool automated physical security
+						assessment service. I am their main fullstack feature engineer.
 					</li>
 					<ul>
 						<li className="listItem">MuellerTek (Mar 2017-2020)</li>
@@ -58,7 +59,7 @@ function Landing() {
 						</div>
 						<li className="listItem">LogosBlock (Dec 2018-Dec 2019)</li>
 						<a className="highlight" target="_blank" href="http://logosblock.com/">
-							-The LogosBlock Website
+							-LogosBlock
 						</a>
 						<li className="listItem">ROMTech (Jan 2020-July 2020)</li>
 						<div className="column">
@@ -68,7 +69,7 @@ function Landing() {
 						</div>
 						<li className="listItem">EasySetGo (Aug 2020-Present)</li>
 						<a className="highlight" target="_blank" href="https://www.easysetgo.com/">
-							-The EasySet Website
+							-EasySetGo
 						</a>
 					</ul>
 					<p className="articleHeader">Technical Skills</p>
